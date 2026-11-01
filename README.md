@@ -2,6 +2,12 @@
 
 ORGANIZACION DEL TRABAJO
 
+Sistema Gestion Vacaciones
+  README.md
+  diagramas/
+   diagrama.png
+  documentacion/
+   
 
 # # Sistema de gestion de vacaciones 
 
